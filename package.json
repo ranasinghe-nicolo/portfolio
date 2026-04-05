@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "@docusaurus/core": "^3.9.2",
+    "@docusaurus/preset-classic": "^3.9.2"
+  },
+  "name": "portfolio-devops",
+  "version": "1.0.0",
+  "main": "docusaurus.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+   "start": "docusaurus start",
+   "build": "docusaurus build",
+   "serve": "docusaurus serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
