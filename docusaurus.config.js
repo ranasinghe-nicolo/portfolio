@@ -5,12 +5,12 @@
 const config = {
   title: 'Portfolio DevOps',
   tagline: 'Il mio portfolio da Linux Sysadmin / DevOps',
-  url: 'https://example.com',       // puoi sostituire con il tuo dominio quando pubblicherai
-  baseUrl: '/',
+  url: 'hhttps://ranasinghe-nicolo.github.io/portfolio/',       // puoi sostituire con il tuo dominio quando pubblicherai
+  baseUrl: '/portfolio-devops/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'TUO-GITHUB-USERNAME', // GitHub username
+  organizationName: 'ranasinghe-nicolo', // GitHub username
   projectName: 'portfolio-devops',         // repo name
   presets: [
     [
