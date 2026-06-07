@@ -3,109 +3,74 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
-    path: '/docs',
-    component: ComponentCreator('/docs', '8b2'),
+    path: '/portfolio/docs',
+    component: ComponentCreator('/portfolio/docs', 'f91'),
     routes: [
       {
-        path: '/docs',
-        component: ComponentCreator('/docs', '370'),
+        path: '/portfolio/docs',
+        component: ComponentCreator('/portfolio/docs', '3bf'),
         routes: [
           {
-            path: '/docs',
-            component: ComponentCreator('/docs', '817'),
+            path: '/portfolio/docs',
+            component: ComponentCreator('/portfolio/docs', '7ed'),
             routes: [
               {
-                path: '/docs/contact',
-                component: ComponentCreator('/docs/contact', '31f'),
+                path: '/portfolio/docs/contact',
+                component: ComponentCreator('/portfolio/docs/contact', 'de4'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/experience',
-                component: ComponentCreator('/docs/experience', 'f73'),
+                path: '/portfolio/docs/experience',
+                component: ComponentCreator('/portfolio/docs/experience', '99f'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/intro',
-                component: ComponentCreator('/docs/intro', 'a6e'),
+                path: '/portfolio/docs/intro',
+                component: ComponentCreator('/portfolio/docs/intro', '929'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/my-projects/',
-                component: ComponentCreator('/docs/my-projects/', 'd17'),
+                path: '/portfolio/docs/my-projects/',
+                component: ComponentCreator('/portfolio/docs/my-projects/', 'cca'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/my-projects/dammn-project',
-                component: ComponentCreator('/docs/my-projects/dammn-project', '6ea'),
+                path: '/portfolio/docs/my-projects/dammn-project',
+                component: ComponentCreator('/portfolio/docs/my-projects/dammn-project', '2d5'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/my-projects/kubernetes-monitoring',
-                component: ComponentCreator('/docs/my-projects/kubernetes-monitoring', '82a'),
+                path: '/portfolio/docs/my-projects/kubernetes-monitoring',
+                component: ComponentCreator('/portfolio/docs/my-projects/kubernetes-monitoring', '2e7'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/my-projects/preventix',
-                component: ComponentCreator('/docs/my-projects/preventix', '3bc'),
+                path: '/portfolio/docs/my-projects/preventix',
+                component: ComponentCreator('/portfolio/docs/my-projects/preventix', '8fe'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/my-projects/terraform-automation',
-                component: ComponentCreator('/docs/my-projects/terraform-automation', '33d'),
+                path: '/portfolio/docs/my-projects/terraform-automation',
+                component: ComponentCreator('/portfolio/docs/my-projects/terraform-automation', 'b8b'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/my-projects/veromap',
-                component: ComponentCreator('/docs/my-projects/veromap', 'cf2'),
+                path: '/portfolio/docs/my-projects/veromap',
+                component: ComponentCreator('/portfolio/docs/my-projects/veromap', '446'),
                 exact: true,
                 sidebar: "docs"
               },
               {
-                path: '/docs/technologies',
-                component: ComponentCreator('/docs/technologies', '475'),
+                path: '/portfolio/docs/technologies',
+                component: ComponentCreator('/portfolio/docs/technologies', 'ab7'),
                 exact: true,
                 sidebar: "docs"
               }
@@ -116,8 +81,8 @@ export default [
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '2e1'),
+    path: '/portfolio/',
+    component: ComponentCreator('/portfolio/', 'acb'),
     exact: true
   },
   {

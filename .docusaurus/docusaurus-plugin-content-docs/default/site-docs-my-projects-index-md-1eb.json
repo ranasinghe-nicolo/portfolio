@@ -5,7 +5,7 @@
   "source": "@site/docs/my-projects/index.md",
   "sourceDirName": "my-projects",
   "slug": "/my-projects/",
-  "permalink": "/docs/my-projects/",
+  "permalink": "/portfolio/docs/my-projects/",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -13,11 +13,11 @@
   "frontMatter": {},
   "sidebar": "docs",
   "previous": {
-    "title": "Esperienze lavorative",
-    "permalink": "/docs/experience"
+    "title": "Esperienze",
+    "permalink": "/portfolio/docs/experience"
   },
   "next": {
     "title": "Terraform Automation",
-    "permalink": "/docs/my-projects/terraform-automation"
+    "permalink": "/portfolio/docs/my-projects/terraform-automation"
   }
 }

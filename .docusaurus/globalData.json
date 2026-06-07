@@ -1,63 +1,63 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/docs",
+      "path": "/portfolio/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/docs",
+          "path": "/portfolio/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "contact",
-              "path": "/docs/contact",
+              "path": "/portfolio/docs/contact",
               "sidebar": "docs"
             },
             {
               "id": "experience",
-              "path": "/docs/experience",
+              "path": "/portfolio/docs/experience",
               "sidebar": "docs"
             },
             {
               "id": "intro",
-              "path": "/docs/intro",
+              "path": "/portfolio/docs/intro",
               "sidebar": "docs"
             },
             {
               "id": "my-projects/dammn-project",
-              "path": "/docs/my-projects/dammn-project",
+              "path": "/portfolio/docs/my-projects/dammn-project",
               "sidebar": "docs"
             },
             {
               "id": "my-projects/index",
-              "path": "/docs/my-projects/",
+              "path": "/portfolio/docs/my-projects/",
               "sidebar": "docs"
             },
             {
               "id": "my-projects/kubernetes-monitoring",
-              "path": "/docs/my-projects/kubernetes-monitoring",
+              "path": "/portfolio/docs/my-projects/kubernetes-monitoring",
               "sidebar": "docs"
             },
             {
               "id": "my-projects/preventix",
-              "path": "/docs/my-projects/preventix",
+              "path": "/portfolio/docs/my-projects/preventix",
               "sidebar": "docs"
             },
             {
               "id": "my-projects/terraform-automation",
-              "path": "/docs/my-projects/terraform-automation",
+              "path": "/portfolio/docs/my-projects/terraform-automation",
               "sidebar": "docs"
             },
             {
               "id": "my-projects/veromap",
-              "path": "/docs/my-projects/veromap",
+              "path": "/portfolio/docs/my-projects/veromap",
               "sidebar": "docs"
             },
             {
               "id": "technologies",
-              "path": "/docs/technologies",
+              "path": "/portfolio/docs/technologies",
               "sidebar": "docs"
             }
           ],
@@ -65,7 +65,7 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/docs/intro",
+                "path": "/portfolio/docs/intro",
                 "label": "intro"
               }
             }

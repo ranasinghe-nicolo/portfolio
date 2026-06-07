@@ -6,12 +6,12 @@
 export default {
   "title": "Portfolio DevOps",
   "tagline": "Il mio portfolio da Linux Sysadmin / DevOps",
-  "url": "https://example.com",
-  "baseUrl": "/",
+  "url": "https://ranasinghe-nicolo.github.io",
+  "baseUrl": "/portfolio/",
   "onBrokenLinks": "throw",
   "favicon": "img/favicon.ico",
-  "organizationName": "TUO-GITHUB-USERNAME",
-  "projectName": "portfolio-devops",
+  "organizationName": "ranasinghe-nicolo",
+  "projectName": "portfolio",
   "presets": [
     [
       "@docusaurus/preset-classic",

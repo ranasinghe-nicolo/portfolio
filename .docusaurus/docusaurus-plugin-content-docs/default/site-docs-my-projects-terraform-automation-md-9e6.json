@@ -5,7 +5,7 @@
   "source": "@site/docs/my-projects/terraform-automation.md",
   "sourceDirName": "my-projects",
   "slug": "/my-projects/terraform-automation",
-  "permalink": "/docs/my-projects/terraform-automation",
+  "permalink": "/portfolio/docs/my-projects/terraform-automation",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "My Projects",
-    "permalink": "/docs/my-projects/"
+    "permalink": "/portfolio/docs/my-projects/"
   },
   "next": {
     "title": "Kubernetes Monitoring",
-    "permalink": "/docs/my-projects/kubernetes-monitoring"
+    "permalink": "/portfolio/docs/my-projects/kubernetes-monitoring"
   }
 }

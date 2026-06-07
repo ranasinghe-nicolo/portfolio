@@ -1,105 +1,62 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/portfolio/docs-f91": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "aba21aa0"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/portfolio/docs-3bf": {
+    "__comp": "a7bd4aaa",
+    "__props": "0629a91f"
   },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
+  "/portfolio/docs-7ed": {
+    "__comp": "a94703ab"
+  },
+  "/portfolio/docs/contact-de4": {
+    "__comp": "17896441",
+    "content": "32dd35a8"
+  },
+  "/portfolio/docs/experience-99f": {
+    "__comp": "17896441",
+    "content": "9dc52d35"
+  },
+  "/portfolio/docs/intro-929": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/portfolio/docs/my-projects/-cca": {
+    "__comp": "17896441",
+    "content": "1eb155f1"
+  },
+  "/portfolio/docs/my-projects/dammn-project-2d5": {
+    "__comp": "17896441",
+    "content": "e475cbbe"
+  },
+  "/portfolio/docs/my-projects/kubernetes-monitoring-2e7": {
+    "__comp": "17896441",
+    "content": "743550f2"
+  },
+  "/portfolio/docs/my-projects/preventix-8fe": {
+    "__comp": "17896441",
+    "content": "959a0db4"
+  },
+  "/portfolio/docs/my-projects/terraform-automation-b8b": {
+    "__comp": "17896441",
+    "content": "9e62a95a"
+  },
+  "/portfolio/docs/my-projects/veromap-446": {
+    "__comp": "17896441",
+    "content": "cc54464c"
+  },
+  "/portfolio/docs/technologies-ab7": {
+    "__comp": "17896441",
+    "content": "1956444d"
+  },
+  "/portfolio/-acb": {
+    "__comp": "c4f5d8e4",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "a7456010"
     },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
-  },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
-  },
-  "/docs-8b2": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---docsaba-d7c"
-    }
-  },
-  "/docs-370": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---docs-005-788"
-  },
-  "/docs-817": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
-  },
-  "/docs/contact-31f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-contact-32-d-c61"
-  },
-  "/docs/experience-f73": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-experience-9-dc-187"
-  },
-  "/docs/intro-a6e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-intro-0-e-3-be1"
-  },
-  "/docs/my-projects/-d17": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-my-projects-1-eb-b4a"
-  },
-  "/docs/my-projects/dammn-project-6ea": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-my-projects-dammn-projecte-47-61b"
-  },
-  "/docs/my-projects/kubernetes-monitoring-82a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-my-projects-kubernetes-monitoring-743-87f"
-  },
-  "/docs/my-projects/preventix-3bc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-my-projects-preventix-959-46c"
-  },
-  "/docs/my-projects/terraform-automation-33d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-my-projects-terraform-automation-9-e-6-176"
-  },
-  "/docs/my-projects/veromap-cf2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-my-projects-veromapcc-5-c9d"
-  },
-  "/docs/technologies-475": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-technologies-195-1f3"
-  },
-  "/-2e1": {
-    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
-    "__context": {
-      "plugin": "plugin---a-74-9d6"
-    },
-    "config": "config---5-e-9-4f3"
+    "config": "5e9f5e1a"
   }
 }

@@ -5,7 +5,7 @@
   "source": "@site/docs/my-projects/kubernetes-monitoring.md",
   "sourceDirName": "my-projects",
   "slug": "/my-projects/kubernetes-monitoring",
-  "permalink": "/docs/my-projects/kubernetes-monitoring",
+  "permalink": "/portfolio/docs/my-projects/kubernetes-monitoring",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -14,10 +14,10 @@
   "sidebar": "docs",
   "previous": {
     "title": "Terraform Automation",
-    "permalink": "/docs/my-projects/terraform-automation"
+    "permalink": "/portfolio/docs/my-projects/terraform-automation"
   },
   "next": {
-    "title": "Preventix — SaaS AI powered",
-    "permalink": "/docs/my-projects/preventix"
+    "title": "Preventix",
+    "permalink": "/portfolio/docs/my-projects/preventix"
   }
 }
