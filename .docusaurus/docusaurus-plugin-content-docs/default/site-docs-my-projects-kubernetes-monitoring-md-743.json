@@ -1,0 +1,23 @@
+{
+  "id": "my-projects/kubernetes-monitoring",
+  "title": "Kubernetes Monitoring",
+  "description": "Progetto di osservabilità per un cluster Kubernetes con metriche, dashboard e alerting.",
+  "source": "@site/docs/my-projects/kubernetes-monitoring.md",
+  "sourceDirName": "my-projects",
+  "slug": "/my-projects/kubernetes-monitoring",
+  "permalink": "/docs/my-projects/kubernetes-monitoring",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Terraform Automation",
+    "permalink": "/docs/my-projects/terraform-automation"
+  },
+  "next": {
+    "title": "Preventix — SaaS AI powered",
+    "permalink": "/docs/my-projects/preventix"
+  }
+}

@@ -11,8 +11,53 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "contact",
+              "path": "/docs/contact",
+              "sidebar": "docs"
+            },
+            {
+              "id": "experience",
+              "path": "/docs/experience",
+              "sidebar": "docs"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "my-projects/dammn-project",
+              "path": "/docs/my-projects/dammn-project",
+              "sidebar": "docs"
+            },
+            {
+              "id": "my-projects/index",
+              "path": "/docs/my-projects/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "my-projects/kubernetes-monitoring",
+              "path": "/docs/my-projects/kubernetes-monitoring",
+              "sidebar": "docs"
+            },
+            {
+              "id": "my-projects/preventix",
+              "path": "/docs/my-projects/preventix",
+              "sidebar": "docs"
+            },
+            {
+              "id": "my-projects/terraform-automation",
+              "path": "/docs/my-projects/terraform-automation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "my-projects/veromap",
+              "path": "/docs/my-projects/veromap",
+              "sidebar": "docs"
+            },
+            {
+              "id": "technologies",
+              "path": "/docs/technologies",
               "sidebar": "docs"
             }
           ],

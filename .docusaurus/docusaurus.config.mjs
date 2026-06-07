@@ -18,56 +18,54 @@ export default {
       {
         "docs": {
           "routeBasePath": "/docs",
-          "sidebarPath": "/root/portfolio-devops/sidebars.js"
+          "sidebarPath": "/Users/nicoloranasinghe/Desktop/portfolio-ai/portfolio-devops/sidebars.js"
         },
         "blog": {
           "showReadingTime": true
         },
         "theme": {
-          "customCss": "/root/portfolio-devops/src/css/custom.css"
+          "customCss": "/Users/nicoloranasinghe/Desktop/portfolio-ai/portfolio-devops/src/css/custom.css"
         }
       }
     ]
   ],
-  "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "path": "i18n",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
-  "future": {
-    "v4": {
-      "removeLegacyPostBuildHeadAttribute": false,
-      "useCssCascadeLayers": false
-    },
-    "experimental_faster": {
-      "swcJsLoader": false,
-      "swcJsMinimizer": false,
-      "swcHtmlMinimizer": false,
-      "lightningCssMinimizer": false,
-      "mdxCrossCompilerCache": false,
-      "rspackBundler": false,
-      "rspackPersistentCache": false,
-      "ssgWorkerThreads": false
-    },
-    "experimental_storage": {
-      "type": "localStorage",
-      "namespace": false
-    },
-    "experimental_router": "browser"
-  },
-  "onBrokenAnchors": "warn",
-  "onDuplicateRoutes": "warn",
-  "staticDirectories": [
-    "static"
-  ],
-  "customFields": {},
-  "plugins": [],
-  "themes": [],
   "themeConfig": {
+    "navbar": {
+      "title": "Portfolio DevOps",
+      "items": [
+        {
+          "type": "doc",
+          "docId": "intro",
+          "position": "left",
+          "label": "Introduzione"
+        },
+        {
+          "type": "doc",
+          "docId": "technologies",
+          "position": "left",
+          "label": "Tecnologie"
+        },
+        {
+          "type": "doc",
+          "docId": "experience",
+          "position": "left",
+          "label": "Esperienze"
+        },
+        {
+          "type": "doc",
+          "docId": "my-projects/index",
+          "position": "left",
+          "label": "Progetti"
+        },
+        {
+          "type": "doc",
+          "docId": "contact",
+          "position": "left",
+          "label": "Contatti"
+        }
+      ],
+      "hideOnScroll": false
+    },
     "colorMode": {
       "defaultMode": "light",
       "disableSwitch": false,
@@ -86,10 +84,6 @@ export default {
       }
     },
     "metadata": [],
-    "navbar": {
-      "hideOnScroll": false,
-      "items": []
-    },
     "prism": {
       "additionalLanguages": [],
       "theme": {
@@ -237,6 +231,44 @@ export default {
       "maxHeadingLevel": 3
     }
   },
+  "baseUrlIssueBanner": true,
+  "i18n": {
+    "defaultLocale": "en",
+    "path": "i18n",
+    "locales": [
+      "en"
+    ],
+    "localeConfigs": {}
+  },
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
+  "onBrokenAnchors": "warn",
+  "onDuplicateRoutes": "warn",
+  "staticDirectories": [
+    "static"
+  ],
+  "customFields": {},
+  "plugins": [],
+  "themes": [],
   "scripts": [],
   "headTags": [],
   "stylesheets": [],

@@ -1,0 +1,23 @@
+{
+  "id": "technologies",
+  "title": "Tecnologie e Competenze",
+  "description": "In questa sezione trovi le tecnologie con cui lavoro e le competenze tecniche che porto nei progetti.",
+  "source": "@site/docs/technologies.md",
+  "sourceDirName": ".",
+  "slug": "/technologies",
+  "permalink": "/docs/technologies",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Profilo Professionale",
+    "permalink": "/docs/intro"
+  },
+  "next": {
+    "title": "Esperienze lavorative",
+    "permalink": "/docs/experience"
+  }
+}

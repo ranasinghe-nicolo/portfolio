@@ -29,6 +29,43 @@ const config = {
       },
     ],
   ],
+  themeConfig: {
+    navbar: {
+      title: 'Portfolio DevOps',
+      items: [
+        {
+          type: 'doc',
+          docId: 'intro',
+          position: 'left',
+          label: 'Introduzione',
+        },
+        {
+          type: 'doc',
+          docId: 'technologies',
+          position: 'left',
+          label: 'Tecnologie',
+        },
+        {
+          type: 'doc',
+          docId: 'experience',
+          position: 'left',
+          label: 'Esperienze',
+        },
+        {
+          type: 'doc',
+          docId: 'my-projects/index',
+          position: 'left',
+          label: 'Progetti',
+        },
+        {
+          type: 'doc',
+          docId: 'contact',
+          position: 'left',
+          label: 'Contatti',
+        },
+      ],
+    },
+  },
 };
 
 module.exports = config;

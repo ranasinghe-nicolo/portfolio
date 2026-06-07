@@ -1,7 +1,7 @@
 {
   "id": "intro",
-  "title": "Introduzione",
-  "description": "Benvenuto nel mio portfolio DevOps! Qui troverai i miei progetti e competenze.",
+  "title": "Profilo Professionale",
+  "description": "Nicolò Ranasinghe",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
@@ -11,5 +11,9 @@
   "tags": [],
   "version": "current",
   "frontMatter": {},
-  "sidebar": "docs"
+  "sidebar": "docs",
+  "next": {
+    "title": "Tecnologie e Competenze",
+    "permalink": "/docs/technologies"
+  }
 }

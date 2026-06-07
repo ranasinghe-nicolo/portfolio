@@ -42,22 +42,58 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-c0d": {
+  "/docs-8b2": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-35b": {
+  "/docs-370": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-549": {
+  "/docs-817": {
     "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/contact-31f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-contact-32-d-c61"
+  },
+  "/docs/experience-f73": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-experience-9-dc-187"
   },
   "/docs/intro-a6e": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/my-projects/-d17": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-projects-1-eb-b4a"
+  },
+  "/docs/my-projects/dammn-project-6ea": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-projects-dammn-projecte-47-61b"
+  },
+  "/docs/my-projects/kubernetes-monitoring-82a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-projects-kubernetes-monitoring-743-87f"
+  },
+  "/docs/my-projects/preventix-3bc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-projects-preventix-959-46c"
+  },
+  "/docs/my-projects/terraform-automation-33d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-projects-terraform-automation-9-e-6-176"
+  },
+  "/docs/my-projects/veromap-cf2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-my-projects-veromapcc-5-c9d"
+  },
+  "/docs/technologies-475": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-technologies-195-1f3"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

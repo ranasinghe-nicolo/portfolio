@@ -1,0 +1,23 @@
+{
+  "id": "my-projects/preventix",
+  "title": "Preventix — SaaS AI powered",
+  "description": "2025 – 2026",
+  "source": "@site/docs/my-projects/preventix.md",
+  "sourceDirName": "my-projects",
+  "slug": "/my-projects/preventix",
+  "permalink": "/docs/my-projects/preventix",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "docs",
+  "previous": {
+    "title": "Kubernetes Monitoring",
+    "permalink": "/docs/my-projects/kubernetes-monitoring"
+  },
+  "next": {
+    "title": "DAMMN Project — Tracking system offline",
+    "permalink": "/docs/my-projects/dammn-project"
+  }
+}
