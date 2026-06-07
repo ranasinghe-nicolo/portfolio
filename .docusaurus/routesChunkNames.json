@@ -1,62 +1,105 @@
 {
-  "/portfolio/docs-f91": {
-    "__comp": "5e95c892",
+  "/portfolio/__docusaurus/debug-040": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "aba21aa0"
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/config-9ca": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/content-da5": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    },
+    "__props": "__props---portfolio-docusaurus-debug-content-01-e-b86"
+  },
+  "/portfolio/__docusaurus/debug/globalData-46a": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/metadata-138": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/registry-3df": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/__docusaurus/debug/routes-dd6": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---portfolio-docusaurus-debugb-38-91d"
+    }
+  },
+  "/portfolio/docs-f91": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---portfolio-docsaba-85b"
     }
   },
   "/portfolio/docs-3bf": {
-    "__comp": "a7bd4aaa",
-    "__props": "0629a91f"
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---portfolio-docs-062-775"
   },
   "/portfolio/docs-7ed": {
-    "__comp": "a94703ab"
+    "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/portfolio/docs/contact-de4": {
-    "__comp": "17896441",
-    "content": "32dd35a8"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-contact-32-d-40b"
   },
   "/portfolio/docs/experience-99f": {
-    "__comp": "17896441",
-    "content": "9dc52d35"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-experience-9-dc-3cb"
   },
   "/portfolio/docs/intro-929": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-intro-0-e-3-586"
   },
   "/portfolio/docs/my-projects/-cca": {
-    "__comp": "17896441",
-    "content": "1eb155f1"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-my-projects-1-eb-66d"
   },
   "/portfolio/docs/my-projects/dammn-project-2d5": {
-    "__comp": "17896441",
-    "content": "e475cbbe"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-my-projects-dammn-projecte-47-61c"
   },
   "/portfolio/docs/my-projects/kubernetes-monitoring-2e7": {
-    "__comp": "17896441",
-    "content": "743550f2"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-my-projects-kubernetes-monitoring-743-6e2"
   },
   "/portfolio/docs/my-projects/preventix-8fe": {
-    "__comp": "17896441",
-    "content": "959a0db4"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-my-projects-preventix-959-45b"
   },
   "/portfolio/docs/my-projects/terraform-automation-b8b": {
-    "__comp": "17896441",
-    "content": "9e62a95a"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-my-projects-terraform-automation-9-e-6-b56"
   },
   "/portfolio/docs/my-projects/veromap-446": {
-    "__comp": "17896441",
-    "content": "cc54464c"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-my-projects-veromapcc-5-2d4"
   },
   "/portfolio/docs/technologies-ab7": {
-    "__comp": "17896441",
-    "content": "1956444d"
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---portfolio-docs-technologies-195-05f"
   },
   "/portfolio/-acb": {
-    "__comp": "c4f5d8e4",
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "a7456010"
+      "plugin": "plugin---portfolio-a-74-123"
     },
-    "config": "5e9f5e1a"
+    "config": "config---portfolio-5-e-9-9af"
   }
 }

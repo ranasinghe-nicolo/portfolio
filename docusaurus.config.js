@@ -3,8 +3,8 @@
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Portfolio DevOps',
-  tagline: 'Il mio portfolio da Linux Sysadmin / DevOps',
+  title: 'Documentazione su Nicolò Ranasinghe',
+  tagline: 'Il mio portfolio da Linux Sysadmin / SysOps',
   url: 'https://ranasinghe-nicolo.github.io',
   baseUrl: '/portfolio/',
   onBrokenLinks: 'throw',
@@ -32,7 +32,7 @@ const config = {
   ],
   themeConfig: {
     navbar: {
-      title: 'Portfolio DevOps',
+      title: 'Portfolio',
       items: [
         {
           type: 'doc',
