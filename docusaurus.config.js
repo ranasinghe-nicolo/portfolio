@@ -12,6 +12,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'ranasinghe-nicolo', // GitHub username
   projectName: 'portfolio',         // repo name
+  deploymentBranch: 'main',
   presets: [
     [
       '@docusaurus/preset-classic',
