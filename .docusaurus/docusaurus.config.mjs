@@ -12,6 +12,7 @@ export default {
   "favicon": "img/favicon.ico",
   "organizationName": "ranasinghe-nicolo",
   "projectName": "portfolio",
+  "deploymentBranch": "main",
   "presets": [
     [
       "@docusaurus/preset-classic",
